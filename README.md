@@ -4,8 +4,8 @@
 This project aims to analyze IPL (Indian Premier League) matches and ball-by-ball data from 2008 to 2020. Using Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and Plotly, we uncover trends, player performances, team statistics, and match dynamics.
 
 ## Dataset Information
-- **IPL Ball-by-Ball 2008-2020** (`IPL Ball-by-Ball 2008-2020.csv`): Contains detailed ball-by-ball match data.
-- **IPL Matches 2008-2020** (`IPL Matches 2008-2020.csv`): Includes match-level details such as venues, teams, toss results, and player awards.
+- **IPL Ball-by-Ball 2008-2020** : Contains detailed ball-by-ball match data.
+- **IPL Matches 2008-2020** : Includes match-level details such as venues, teams, toss results, and player awards.
 
 ##  Exploratory Analysis Conducted
 - **General Match Statistics**:
